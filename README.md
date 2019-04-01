@@ -32,7 +32,8 @@ Use MSRDP client on TV as presentation screen, and control content remotely on a
 - Copy these scripts, edit  `control.bat`, change the username `Screen1` in the last line to your screen's username.
 - If you have several screens, copy `control.bat`, and change the usernames into yours.
 - Run `control.bat`, you will be asked for UAC elevation, click Allow.
-- You now have a window to control the screen account's desktop.
+- You now have a window to control the screen account's desktop.  
+  ![](img/README_2019-04-02-03-49-13.png)
 
 ## Notice
 
