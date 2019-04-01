@@ -38,3 +38,7 @@ Use MSRDP client on TV as presentation screen, and control content remotely on a
 
 If your content has lots of animation or other moving contents, be aware of the net traffic between the server and the screen could be huge.  
 Under 1920*1080 resolution, a continuously animating content could take up to 2MB/s' bandwidth. Better connect the network via wired network, Wi-Fi connection is not reliable.
+
+## Thanks
+
+Thanks to [Matt](https://stackoverflow.com/users/1016343/matt) on StackOverflow for the [elevation batch script](https://stackoverflow.com/a/12264592/1016343).
