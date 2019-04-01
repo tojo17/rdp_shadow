@@ -20,7 +20,7 @@ Use MSRDP client on TV as presentation screen, and control content remotely on a
 
 - Install RDP software on your TV. For Android system, I recommend [Remote Desktop Manager](https://remotedesktopmanager.com/) for best full-screen view. For low memory clients, you can also use [Microsoft RDP](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android).
 - Config your server address, port, resolution, etc.
-- ![](img/README_2019-04-02-03-27-36.png)
+  ![](img/README_2019-04-02-03-27-36.png)
 - Connect to your screen's user account of the server.
 - Wait for desktop to load.  
   ![](img/README_2019-04-02-03-28-14.png)  
